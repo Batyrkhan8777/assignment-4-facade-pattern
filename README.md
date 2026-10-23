@@ -110,8 +110,8 @@ git commit -m "feat: add media conversion facade and demo client"
 Create an empty GitHub repository, then connect and push it:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/media-conversion-facade.git
+git remote add origin https://github.com/Batyrkhan8777/assignment-4-facade-pattern.git
 git push -u origin main
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username. Submit the repository URL through Moodle as required by your course.
+Submit the repository URL through Moodle as required by your course.
